@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animated Games Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="navbar">
+        <ul id="nav">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#games">Games</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </div>
+    <div class="content">
+        <section id="home">
+            <h1>Welcome to the Game World</h1>
+            
+        </section>
+        <section id="games" class="animated-section">
+            <h2>Our Games</h2>
+            <div class="game-card">
+                <img src="th.jpeg" alt="Game 1">
+                <h3>Game Title 1</h3>
+                <p>Call on duty</p>
+            </div>
+            <div class="game-card">
+                <img src="download (1).jpeg" alt="Game 2">
+                <h3>Game Title 2</h3>
+                <p>car racing</p>
+            </div>
+            <div class="game-card">
+                <img src="OIP (2).jpeg" alt="Game 3">
+                <h3>Game Title 3</h3>
+                <p>hill climbing</p>
+            </div>
+        </section>
+        <div class="game-card">
+            <img src="th.jpeg" alt="Game 1">
+            <h3>Game Title 1</h3>
+            <p>Call on duty</p>
+        </div>
+        <div class="game-card">
+            <img src="download (1).jpeg" alt="Game 2">
+            <h3>Game Title 2</h3>
+            <p>car racing</p>
+        </div>
+        <div class="game-card">
+            <img src="OIP (2).jpeg" alt="Game 3">
+            <h3>Game Title 3</h3>
+            <p>hill climbing</p>
+        </div>
+    </section>
+    </div><div class="game-card">
+        <img src="th (2).jpeg" alt="Game 4">
+        <h3>Game Title 4</h3>
+        <p>pub g</p>
+    </div>
+    <div class="game-card">
+        <img src="download (2).jpeg" alt="Game 5">
+        <h3>Game Title 5</h3>
+        <p>cooking </p>
+    </div>
+</section>
+</div>
+    <footer class="footer">
+        <div class="footer-content">
+            
+            <ul class="socials">
+                <li><a href="#"><img src="65541-logo-facebook-icon-free-hq-image.png" alt="Facebook"></a></li>
+                <li><a href="#"><img src="download.png" alt="LinkedIn"></a></li>
+            </ul>
+        </div>
+       
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
